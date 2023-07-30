@@ -28,8 +28,9 @@ json-server
 <img src="./2.png">
 <img src="./3.png">
 <img src="./4.png">
+
 <img src="./5.png">
-<img src="./6.png">
+
 
 ## Support and contact details 
 To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
